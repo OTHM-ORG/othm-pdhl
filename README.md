@@ -1,3 +1,4 @@
+[![License WTFPL 2](https://img.shields.io/badge/license-WTFPL2-blue.svg)](http://www.wtfpl.net/txt/copying/)
 # othm-pdhl
 Pronounced "Autumn Puddle Hole", a set of WTFPL header libraries.
 
@@ -9,10 +10,4 @@ Some of these libraries are small and useful enough in the general sense that th
 
 **othm-pdhl is under the WTFPL!**
 
-I don't care much about keeping track of their use. However people tend to be too *downright boring* and without a care of the effect their work has on others, this annoys me to no end, so:
-
-**other othm libraries will tend to be GPL3, be aware of your usage!**
-
-I want to ensure my best work will not be used to make my own life more annoying by supporting work I myself cannot use, and annoying those who are all business and no science or fun. I like to make people who like the idea of free market to be disturbed, since it means a world without interesting stories, and I can't have that.
-
-:grin: -- Uladox
+Other othm libraries might be under a MIT, LGPL, or GPL license.
