@@ -1,6 +1,6 @@
 [![License WTFPL 2](https://img.shields.io/badge/license-WTFPL2-blue.svg)](http://www.wtfpl.net/txt/copying/)
 # othm-pdhl
-Pronounced "Autumn Puddle Hole", a set of WTFPL header libraries.
+Pronounced "Autumn Puddle", a set of WTFPL header libraries.
 
 These are a set of libraries made in a [similar fashion](https://github.com/nothings/stb/blob/master/docs/stb_howto.txt) to [stb](https://github.com/nothings/stb).
 
